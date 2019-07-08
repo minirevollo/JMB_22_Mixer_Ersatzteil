@@ -16,3 +16,5 @@ Die M6-Mutter-Version ist einfacher zu handhaben, da die Mutter nur eingeklebt w
 
 Die Mutter gibt es bei ebay für 1 Euro.
 
+Bei Thingiverse habe ich noch eine ähnliche Datei gefunden. Ich bin mir aber nicht sicher ob es die genau passende Version ist: [thingiverse thing 28134](https://www.thingiverse.com/thing:28134)
+
