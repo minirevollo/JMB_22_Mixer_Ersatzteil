@@ -6,7 +6,7 @@ Kupplung für einen Mixer der **Marke JMB** **Modell 22**. Erstellt mit SketchUp
 <img width = "80%" src="IMG/Roesner_Ersatzteil_unten.jpg" />
 
 <img width = "80%" src="IMG/jmb22.jpg" />
-<img width = "80%" src="IMG/jmb22_Detail.jpg" />
+
 <img width = "80%" src="IMG/jmb22_Detail_2.jpg" />
 
 
